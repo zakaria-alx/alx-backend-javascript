@@ -1,2 +1,1 @@
-# 0x01. ES6 Promises
-
+# 0x02. ES6 classes
